@@ -1,4 +1,4 @@
-### Sobre mim:
+### Sobre mim
 
 - **Desenvolvedor Full Stack** com formação técnica em Desenvolvimento de Sistemas pelo SENAI/SC e graduando em Ciências da Computação pela UNISOCIESC.
 - Experiência comprovada em **ambientes corporativos**, trabalhando com ERP, Oracle APEX, bancos de dados e metodologias ágeis (Scrum, Kanban).
@@ -28,7 +28,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" title="Java" style="margin: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" title="C#" style="margin: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" title="Laravel" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" title="Node.js" style="margin: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" title="MySQL" style="margin: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" title="Oracle" style="margin: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" title="Docker" style="margin: 10px;">
