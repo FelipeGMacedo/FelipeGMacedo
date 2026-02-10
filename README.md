@@ -1,18 +1,18 @@
-### Sobre mim
+### About Me
 
-- **Desenvolvedor Full Stack** com formação técnica em Desenvolvimento de Sistemas pelo SENAI/SC e graduando em Ciências da Computação pela UNISOCIESC.
-- Experiência comprovada em **ambientes corporativos**, trabalhando com ERP, Oracle APEX, bancos de dados e metodologias ágeis (Scrum, Kanban).
-- Expertise em tecnologias **front-end** (HTML, CSS e JavaScript) e **back-end** (PHP, Laravel).
-- Profissional com **inglês avançado** e forte capacidade de resolução de problemas, atendimento ao cliente e trabalho em equipe.
-- Apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
+- **Full Stack Developer** with a technical degree in Systems Development from SENAI/SC and currently pursuing a Bachelor's degree in Computer Science at UNISOCIESC.
+- Proven experience in **corporate environments**, working with ERP systems, Oracle APEX, databases, and agile methodologies (Scrum, Kanban).
+- Expertise in **front-end** technologies (HTML, CSS, and JavaScript) and **back-end** development (PHP, Laravel).
+- Professional with **advanced English proficiency** and strong problem-solving skills, customer service, and teamwork capabilities.
+- Passionate about technology and always seeking new challenges and learning opportunities.
 
 ---
 
-### Formação
+### Education
 
-- **Bacharel em Ciências da Computação** - UNISOCIESC *(em andamento)*
-- **Curso Técnico em Desenvolvimento de Sistemas** - SENAI/SC *(concluído)*
-- **Curso de Inglês** - Rockfeller *(avançado)*
+- **Bachelor's Degree in Computer Science** - UNISOCIESC *(in progress)*
+- **Technical Course in Systems Development** - SENAI/SC *(completed)*
+- **English Course** - Rockfeller *(advanced level)*
 
 ---
 
